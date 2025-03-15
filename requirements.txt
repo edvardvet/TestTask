@@ -1,0 +1,10 @@
+flask
+openai
+requests
+beautifulsoup4
+langchain-community
+faiss-cpu
+telegram
+langchain_openai
+langchain-text-splitters
+langgraph

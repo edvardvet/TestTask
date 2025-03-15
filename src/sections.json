@@ -1,0 +1,230 @@
+[
+    {
+        "title": "Introduction",
+        "url": "https://www.promptingguide.ai/introduction"
+    },
+    {
+        "title": "LLM Settings",
+        "url": "https://www.promptingguide.ai/introduction/settings"
+    },
+    {
+        "title": "Basics of Prompting",
+        "url": "https://www.promptingguide.ai/introduction/basics"
+    },
+    {
+        "title": "Prompt Elements",
+        "url": "https://www.promptingguide.ai/introduction/elements"
+    },
+    {
+        "title": "General Tips for Designing Prompts",
+        "url": "https://www.promptingguide.ai/introduction/tips"
+    },
+    {
+        "title": "Examples of Prompts",
+        "url": "https://www.promptingguide.ai/introduction/examples"
+    },
+    {
+        "title": "Prompting Techniques",
+        "url": "https://www.promptingguide.ai/techniques"
+    },
+    {
+        "title": "Zero-shot Prompting",
+        "url": "https://www.promptingguide.ai/techniques/zeroshot"
+    },
+    {
+        "title": "Few-shot Prompting",
+        "url": "https://www.promptingguide.ai/techniques/fewshot"
+    },
+    {
+        "title": "Chain-of-Thought Prompting",
+        "url": "https://www.promptingguide.ai/techniques/cot"
+    },
+    {
+        "title": "Meta Prompting",
+        "url": "https://www.promptingguide.ai/techniques/meta-prompting"
+    },
+    {
+        "title": "Self-Consistency",
+        "url": "https://www.promptingguide.ai/techniques/consistency"
+    },
+    {
+        "title": "Generate Knowledge Prompting",
+        "url": "https://www.promptingguide.ai/techniques/knowledge"
+    },
+    {
+        "title": "Prompt Chaining",
+        "url": "https://www.promptingguide.ai/techniques/prompt_chaining"
+    },
+    {
+        "title": "Tree of Thoughts",
+        "url": "https://www.promptingguide.ai/techniques/tot"
+    },
+    {
+        "title": "Retrieval Augmented Generation",
+        "url": "https://www.promptingguide.ai/techniques/rag"
+    },
+    {
+        "title": "Automatic Reasoning and Tool-use",
+        "url": "https://www.promptingguide.ai/techniques/art"
+    },
+    {
+        "title": "Automatic Prompt Engineer",
+        "url": "https://www.promptingguide.ai/techniques/ape"
+    },
+    {
+        "title": "Active-Prompt",
+        "url": "https://www.promptingguide.ai/techniques/activeprompt"
+    },
+    {
+        "title": "Directional Stimulus Prompting",
+        "url": "https://www.promptingguide.ai/techniques/dsp"
+    },
+    {
+        "title": "Program-Aided Language Models",
+        "url": "https://www.promptingguide.ai/techniques/pal"
+    },
+    {
+        "title": "ReAct",
+        "url": "https://www.promptingguide.ai/techniques/react"
+    },
+    {
+        "title": "Reflexion",
+        "url": "https://www.promptingguide.ai/techniques/reflexion"
+    },
+    {
+        "title": "Multimodal CoT",
+        "url": "https://www.promptingguide.ai/techniques/multimodalcot"
+    },
+    {
+        "title": "Graph Prompting",
+        "url": "https://www.promptingguide.ai/techniques/graph"
+    },
+    {
+        "title": "Applications",
+        "url": "https://www.promptingguide.ai/applications"
+    },
+    {
+        "title": "Fine-tuning GPT-4o",
+        "url": "https://www.promptingguide.ai/applications/finetuning-gpt4o"
+    },
+    {
+        "title": "Function Calling",
+        "url": "https://www.promptingguide.ai/applications/function_calling"
+    },
+    {
+        "title": "Context Caching with LLMs",
+        "url": "https://www.promptingguide.ai/applications/context-caching"
+    },
+    {
+        "title": "Generating Data",
+        "url": "https://www.promptingguide.ai/applications/generating"
+    },
+    {
+        "title": "Generating Synthetic Dataset for RAG",
+        "url": "https://www.promptingguide.ai/applications/synthetic_rag"
+    },
+    {
+        "title": "Tackling Generated Datasets Diversity",
+        "url": "https://www.promptingguide.ai/applications/generating_textbooks"
+    },
+    {
+        "title": "Generating Code",
+        "url": "https://www.promptingguide.ai/applications/coding"
+    },
+    {
+        "title": "Graduate Job Classification Case Study",
+        "url": "https://www.promptingguide.ai/applications/workplace_casestudy"
+    },
+    {
+        "title": "Prompt Function",
+        "url": "https://www.promptingguide.ai/applications/pf"
+    },
+    {
+        "title": "Models",
+        "url": "https://www.promptingguide.ai/models"
+    },
+    {
+        "title": "ChatGPT",
+        "url": "https://www.promptingguide.ai/models/chatgpt"
+    },
+    {
+        "title": "Claude 3",
+        "url": "https://www.promptingguide.ai/models/claude-3"
+    },
+    {
+        "title": "Code Llama",
+        "url": "https://www.promptingguide.ai/models/code-llama"
+    },
+    {
+        "title": "Flan",
+        "url": "https://www.promptingguide.ai/models/flan"
+    },
+    {
+        "title": "Gemini",
+        "url": "https://www.promptingguide.ai/models/gemini"
+    },
+    {
+        "title": "Gemini Advanced",
+        "url": "https://www.promptingguide.ai/models/gemini-advanced"
+    },
+    {
+        "title": "Gemini 1.5 Pro",
+        "url": "https://www.promptingguide.ai/models/gemini-pro"
+    },
+    {
+        "title": "Gemma",
+        "url": "https://www.promptingguide.ai/models/gemma"
+    },
+    {
+        "title": "GPT-4",
+        "url": "https://www.promptingguide.ai/models/gpt-4"
+    },
+    {
+        "title": "Grok-1",
+        "url": "https://www.promptingguide.ai/models/grok-1"
+    },
+    {
+        "title": "LLaMA",
+        "url": "https://www.promptingguide.ai/models/llama"
+    },
+    {
+        "title": "Llama 3",
+        "url": "https://www.promptingguide.ai/models/llama-3"
+    },
+    {
+        "title": "Mistral 7B",
+        "url": "https://www.promptingguide.ai/models/mistral-7b"
+    },
+    {
+        "title": "Mistral Large",
+        "url": "https://www.promptingguide.ai/models/mistral-large"
+    },
+    {
+        "title": "Mixtral",
+        "url": "https://www.promptingguide.ai/models/mixtral"
+    },
+    {
+        "title": "Mixtral 8x22B",
+        "url": "https://www.promptingguide.ai/models/mixtral-8x22b"
+    },
+    {
+        "title": "OLMo",
+        "url": "https://www.promptingguide.ai/models/olmo"
+    },
+    {
+        "title": "Phi-2",
+        "url": "https://www.promptingguide.ai/models/phi-2"
+    },
+    {
+        "title": "Sora",
+        "url": "https://www.promptingguide.ai/models/sora"
+    },
+    {
+        "title": "LLM Collection",
+        "url": "https://www.promptingguide.ai/models/collection"
+    },
+    {
+        "title": "Introduction",
+        "url": "https://www.promptingguide.ai/introduction"
+    }
+]
